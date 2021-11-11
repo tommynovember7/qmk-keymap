@@ -10,6 +10,7 @@ This is basically for Planck keyboards and may only work with planck/rev6_drop c
 | ---------------- | ----------------- | -------------- |
 | planck/rev6_drop | LAYOUT_ortho_4x12 | tommynovember7 |
 
+
 [QMK Configurator API v0.1](https://config.qmk.fm/#/planck/rev6_drop/LAYOUT_ortho_4x12)
 
 ![Planck/rev_drop](https://github.com/tommynovember7/qmk-keymap/raw/planck/rev6_drop/IMG_9624.png)
